@@ -1,0 +1,12 @@
+{
+    "testData": {
+        "tc001": {
+            "email":"user@phptravels.com",
+            "password":"demouser"
+        },
+        "tc002": {
+            "email":"",
+            "password":""
+        }
+    }
+}

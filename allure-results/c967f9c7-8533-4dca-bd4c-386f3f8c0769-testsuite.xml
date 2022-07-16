@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1657915825663' stop='1657915831024'>
+    <name>feature: Login</name>
+    <title>feature: Login</title>
+    <test-cases>
+        <test-case start='1657915827919' status='passed' stop='1657915831023'>
+            <name>TC001: To verify if user can login successfully on providing proper input</name>
+            <title>TC001: To verify if user can login successfully on providing proper input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='28690685-4f7d-43a1-952f-9012b9bbe90b-attachment.png' type='image/png' size='82630'/>
+                <attachment title='Screenshot' source='f3146a55-8c0d-416f-869a-b7fa3d7b6f54-attachment.png' type='image/png' size='123601'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
